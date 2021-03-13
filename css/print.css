@@ -1,0 +1,23 @@
+@page{
+	size: 150mm 210mm;
+	margin: 1cm;
+}
+
+@page cover{
+	background: #000; 
+	color: #FFF;
+}
+
+@page blackpage{
+	background: #000; 
+}
+
+@page imagesdouble{
+	background: #000; 
+	color: #FFF;
+}
+
+@page bakcover{
+	background: #000; 
+	color: #FFF;
+}
